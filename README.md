@@ -16,3 +16,5 @@
 **Reference**
 
 Prince, Simon J. B., *Understanding Deep Learning.* Retrieved from [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
+LMU Munich team, *Introduction to Machine Leanring* [https://slds-lmu.github.io/i2ml/](https://slds-lmu.github.io/i2ml/)
+Andriy Burkov, *The Hundred-Page Language Models Book*, [https://themlbook.com/](https://themlbook.com/)
