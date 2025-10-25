@@ -12,3 +12,7 @@
 8. [Implementation of Algorithms in Numpy: kNN & Logistic Regression](algo_implementations.ipynb)
 9. [Project: K-Means](kmeans_not_imeplemented.ipynb)
 10. [PCA](PCA.ipynb)
+
+**Reference**
+
+Prince, Simon J. B., *Understanding Deep Learning.* Retrieved from [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
